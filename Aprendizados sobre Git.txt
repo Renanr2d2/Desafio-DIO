@@ -1,0 +1,8 @@
+# Aprendizados gerais durante as aulas do curso Introdução ao Git/GitHub da plataforma DIO
+
+Aprendemos noções báscias sobre Git/GitHub
+Aprendemos comandos básicos do Git
+Aprendemos sobre chaves SSH e como gerálas
+Aprendemos a clonar um repositório, fazer alterações nos arquivos do repositório remoto através do repositótio clonado(local)
+
+E por fim, um Desafio De Projeto, com o objetivo de criar nosso primeiro repositório.
